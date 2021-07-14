@@ -15,7 +15,7 @@
 
 ### Home Page
 
-![Homepage](https://github.com/brkyzc-uk/Piano-Notes/blob/main/home-screen.png)
+![Homepage](https://github.com/brkyzc-uk/Piano-Notes-Javascript/blob/main/home-screen.png)
 
 
 
